@@ -1,0 +1,3 @@
+..\data\mfcc\S011F_A_WA.mfcc.txt
+..\data\mfcc\S011F_B_ID.mfcc.txt
+..\data\mfcc\S012F_B_SA.mfcc.txt
